@@ -40,7 +40,7 @@ Browse the open bounties and read the whole brief before you commit to one. Chec
 - **The task.** What exactly has to be built, and in what format? A game, a tool, a forecast, a guide?
 - **The harness.** Some bounties grade code that runs; some grade screenshots; some, like this one, score referrals. The harness decides what "good" means.
 - **The deadline and the quota.** Most bounties cap how many entries you can submit per day and in total. A rejected entry usually still counts against the cap, so don't fire off a rough draft to "test" the system.
-- **The prize split.** First place is rarely the whole pool. Many bounties pay the top 10, 50, or 100 entries, so a solid, honest entry often pays something even if it doesn't win.
+- **The prize split.** First place is rarely the whole pool. Many bounties pay the top 10, 50, or 100 entries, so a solid, honest entry often pays something even if it doesn't win. Check the exact split in the brief — for this bounty, even 50th place pays $13.
 
 ## Step 3: Build the entry
 
@@ -65,6 +65,8 @@ Referrals are make.fun's growth engine, and this bounty is scored on them alone.
 - **First touch wins, for 60 days.** The code a visitor's browser saw first is the one that gets credit, even if they later click someone else's link. A signup counts only if the account is created inside the competition window.
 - **Only verified humans count.** The same checks that pay make.fun's referral rewards decide: your own account doesn't count, signups from the same person or network don't count, bots don't count, and idle accounts that never take part don't count. Each signup gets a review hold before it is verified.
 - **Sharing is the work.** The entry with the most verified signups wins. Post the link where real people who would genuinely enjoy make.fun will see it — a community you belong to, a group chat, your social feed. Spam it at strangers and you'll get signups that never verify.
+- **Counts are finalised after the deadline.** Each signup is decided once its own 24-hour review hold has closed, and only the signups verified by the end of the final check — 30 hours after the deadline — count. The number you see on the leaderboard during the competition is provisional.
+- **Share early.** First touch binds for 60 days, so a visitor who first clicks your link before the bounty even opens still counts if they create their account inside the window.
 
 ## Tips that actually matter
 
@@ -94,6 +96,17 @@ Read the status page. It names each failed check and its fix. Fix it, resubmit b
 ## About this guide
 
 This repository is an entry for ["Bring the humans again"](https://make.fun/bounty/bring-the-humans-02) — a $1,000 bounty across 50 places, scored on verified human signups through the author's referral link. Entries close 21 November 2026, 10:30 UTC.
+
+The prize split for this bounty:
+
+| Place | Prize |
+|-------|-------|
+| 1st | $150 |
+| 2nd | $80 |
+| 3rd | $50 |
+| 4th–10th | $20 each |
+| 11th–25th | $17 each |
+| 26th–50th | $13 each |
 
 If this guide helped you understand make.fun, the best thanks is signing up through it:
 
